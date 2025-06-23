@@ -14,16 +14,6 @@ This is a simple OCR (Optical Character Recognition) web app built with **Flask*
 
 ---
 
-## 📂 Project Structure
-
-OCR_Flask_App/
-├── app.py # Flask application
-├── templates/
-│ └── index.html # Frontend upload form
-├── uploads/ # Temporary uploaded files
-├── requirements.txt # Required Python packages
-└── README.md # You're reading this :)
-
 ## 📥 Install Tesseract OCR
 Download installer:
 - https://github.com/UB-Mannheim/tesseract/wiki
