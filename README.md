@@ -27,4 +27,5 @@ Download Poppler:
 - Extract and move it to: C:\poppler
 - Use in code: POPPLER_PATH = r'C:\poppler\Library\bin'
 
+![image](https://github.com/user-attachments/assets/db24e597-6262-43ff-ad7c-f87b17cd5a2f)
   
